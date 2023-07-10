@@ -1,3 +1,5 @@
+# 2
+
 Purpose: The purpose of this repo was to contain and track all of the work that we did for our second project in ST 558. The goal of this project was to analyze data about the popularity of online news articles and create predictive models based on this data.
 
 R packages used: tidyverse knitr GGally corrplot qwraps2 vtable psych ggplot2 cowplot caret gbm randomForest tree class bst reshape reshape2 corrr ggcorrplot FactoMineR factoextra data.table
